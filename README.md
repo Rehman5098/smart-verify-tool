@@ -1,1 +1,1 @@
-Initial project upload
+Initial project uploaded
