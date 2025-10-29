@@ -1,0 +1,5 @@
+{
+  "name": "SmartVerify - Email Verifier Tool",
+  "description": "A professional tool to verify email addresses in bulk and individually, featuring real-time syntax checks, domain validation, and simulated MX/SMTP checks. Includes dark/light modes and a credit-based system.",
+  "requestFramePermissions": []
+}
